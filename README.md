@@ -81,8 +81,8 @@ Optimize performance for faster processing.
 
 👨‍💻 Author
 
-Basamsetti Sahithi Devi
+Boyana Pavani
 
-LinkedIn: www.linkedin.com/in/sahithibasamsetti
+LinkedIn: www.linkedin.com/in/pavani-boyana
 
-GitHub: [Your Repository](https://github.com/sahithi3429/Human-Pose-Estimation-using-Machine-Learning.git)
+GitHub: [Your Repository](https://github.com/pavaniboyana46/Human-Pose-Estimation-using-Machine-Learning.git)
